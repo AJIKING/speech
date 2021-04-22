@@ -1,2 +1,2 @@
 # speech
-音声認識サンプル
+webkitSpeechRecognition 音声認識サンプル
